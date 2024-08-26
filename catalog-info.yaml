@@ -14,4 +14,4 @@ spec:
   type: Repository
   lifecycle: lombelico
   owner: team-c
-  domain: playback
+  system: some-system
