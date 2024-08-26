@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: new-test
+  description: Some new test 
+  tags:
+    - java
+    - flakes
+  links:
+    - url: https://github.com/shukilagama/new-test
+      title: new-test
+      icon: github
+spec:
+  type: Repository
+  lifecycle: lombelico
+  domain: playback
