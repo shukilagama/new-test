@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: new-test
-  description: Some new test 
+  description: "Some new test"
   tags:
     - java
     - flakes
