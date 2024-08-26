@@ -13,5 +13,4 @@ metadata:
 spec:
   type: Repository
   lifecycle: lombelico
-  domain: playback
   owner: team-c
